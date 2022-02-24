@@ -21,7 +21,7 @@ function Contact() {
         
       </div>
       <div className="logotwo">
-          <img src={require("../img/logo.png")} alt ={"logo"} />
+          <img src={require("../../images/logo.png")} alt ={"logo"} />
         </div>
         <p className="copyright">{json.contact.text}</p>
     </div>

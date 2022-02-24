@@ -1,7 +1,7 @@
 import Header from "./components/Header/header";
 import Services from "./components/Services/services";
 import Info from "./components/Info/info";
-import Contact from "./components/Contact/";
+import Contact from "./components/Contact/contact";
 import './App.css';
 
 function App() {
