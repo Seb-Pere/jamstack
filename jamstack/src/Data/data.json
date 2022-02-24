@@ -1,0 +1,47 @@
+{
+    "header": {
+        "title": "Make business with us & become beautiful",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "button": "GET STARTED"
+    },
+    
+
+    "services": {
+        "title": "Services",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum"
+    },
+    
+    "first-box": {
+        "title": "Market Research",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."
+    },
+    "second-box": {
+        "title": "Latest Technologys",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor"
+    },
+    "third-box": {
+        "title": "Data Processing",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor"
+    },
+    "fourth-box": {
+        "title": "Customer Support",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor"
+    },
+
+
+    "info": {
+        "title": "Best Digital Marketing Solution",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum Lorem ipsum dolor sit amet, hendrerit mel, es vidit eu lorem animal iracundia. Ius te altera essent incorrupte.",
+        "first-text": "Hendrerit omittantur mel,es vidit eu lorem animal.",
+        "second-text": "The best marketing company to boost your web",
+        "third-text": "The Secrets to Successful About Hexan"
+    },
+
+
+    "contact": {
+      "title": "Contact",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum",
+      "boutton": "SUBMIT",
+      "text": "© all Rights Reserved by Hexan"
+    }
+}
