@@ -1,0 +1,49 @@
+.header-g {
+    box-shadow: 0 0 5px 0 lightgray;
+    padding: 10px 0 10px 0;
+  }
+  
+.logo {
+    width: 50%;
+    text-align: start;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+}
+  
+.TextImg {
+    display: flex;
+    justify-self: center;
+    align-content: center;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-left: 250px
+}
+  
+.title-header {
+    color: #3f3f3f;
+      font-size: 53px;
+      line-height: 60px;
+      letter-spacing: 0px;
+      font-weight: 700;
+}
+  
+.desc-header {
+    color: #3f3f3f;
+     font-size: 15px;
+}
+  
+.Button {
+    background-color: #fb4275;
+    border-color: #fb4275;
+    border : transparent;
+    cursor: pointer;
+    padding: 10px 20px 10px 20px;
+    color: white
+}
+  
+.banner {
+    height: 400px;
+    width: 400px
+}

@@ -1,0 +1,45 @@
+.AllInfo {
+    display : flex;
+    width: 70%;
+    margin: 0 auto;
+  }
+  
+  .check {
+    width: 2%;
+    height: 2%;
+  }
+  
+  .cc {
+    display: flex;
+    align-items: center;
+  }
+  
+  .titrethree {
+    color: #3f3f3f;
+      font-size: 40px;
+      border-top: 4px solid #fb4275;
+      font-weight: 700;
+      padding-top:5px;
+      margin-top: 50px;
+      width: 25%
+  }
+  
+  .MarkImg {
+    background-color: #fff7f9 ;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    width: 500px;
+    padding-right: 200px;
+    padding: 75px
+  }
+  
+  .AllInfos{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 250px
+  }
+  
+  .ff {
+    line-height: 0px;
+  }
+  
